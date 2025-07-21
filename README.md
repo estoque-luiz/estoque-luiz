@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Controle de Estoque</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <title>Seu título aqui</title>
+  <script src="https://cdn.tailwindcss.com"></script>>
 </head>
 <body class="bg-gray-100 p-4">
   <div class="max-w-4xl mx-auto">
